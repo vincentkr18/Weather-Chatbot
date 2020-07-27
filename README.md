@@ -7,7 +7,7 @@ TODO: A weather and emission data retreiving chatbot trained on neural networks
 ```pip install -r requirements.txt```
 
 ##### Configuration:
-Update user name and Password in config.yml file Your DB  
+
 Update API Key for Open Weather Website
 
 ##### Launch:
