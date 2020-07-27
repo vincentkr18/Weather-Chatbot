@@ -15,3 +15,5 @@ python app.py
 
 ##### UI:
 Open http://127.0.0.1:5000/  to chat with the bot
+
+![Screenshot](image.png)
