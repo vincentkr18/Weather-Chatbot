@@ -1,7 +1,7 @@
 # Weather-Chatbot
 
 ##### Introduction
-TODO: A weather and emission data retreiving chatbot trained on neural networks
+A weather and emission data retreiving chatbot trained on neural networks which fetches information from a weather API. Input for the API is identified by using named entity recognition of SpaCy library. City names are passed as input to the API and weather information is fetched and returned as a reply to the user.
 
 ##### Installation:
 ```pip install -r requirements.txt```
