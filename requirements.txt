@@ -56,7 +56,7 @@ SQLAlchemy==1.3.16
 SQLite3Database==0.2.0
 srsly==1.0.2
 tensorboard==2.1.1
-tensorflow==2.1.0
+tensorflow==2.5.3
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 thinc==7.4.0
